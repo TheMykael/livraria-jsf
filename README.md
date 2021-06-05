@@ -13,7 +13,7 @@ Usei a Hotspot JDK na versão 8.0.291 neste projeto.
 Antes de tudo, usar o conector compatível com a versão do MySQL:
 mysql-connector-java-8.0.18.jar
 
-Algumas soluções:
+## Algumas soluções:
 
 Alterar o artefato de validação; uma versão mais antiga não foi suportada por esta JDK
 Baixe e insira na pasta /lib: validation-api-2.0.1.Final.jar
