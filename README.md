@@ -1,5 +1,5 @@
 # livraria-jsf
-Projeto de uma livraria utilizando JSF 2.2.13
+Projeto de uma livraria utilizando JSF 2.2.13 e Primefaces 6.0
 
 Ao fazer a persistência com o banco de dados, me deparei com algumas exceções. Algumas delas:
 - javax.persistence.PersistenceException: [PersistenceUnit: livraria] Unable to build EntityManagerFactory
